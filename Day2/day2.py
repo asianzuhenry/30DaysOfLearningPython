@@ -19,52 +19,9 @@ person_info = {
 print(person_info["name"])  # Output: Henry 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 # Type Conversion 
 num = 1234
 print(str(num)) # '1234'  int(num)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 # String Methods
@@ -73,29 +30,6 @@ print(my_String)
 print(my_String.upper()) # HELLO, WORLD
 print(my_String.lower()) # hello, world
 print(my_String.replace("World", "Python"))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 #  BASIC OPERATIONS
@@ -113,20 +47,6 @@ print(a > b)
 print(a < b)
 print(a == b)
 print(a != b)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 # INPUT AND OUTPUT
